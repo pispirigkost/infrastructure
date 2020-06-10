@@ -1,0 +1,4 @@
+Playbook                initial    gather_facts=false update_cache=false  pipelining = True
+site.yaml               1m17.093s  0m56.476s          0m27.837s           0m13.812s
+playbooks/status.yaml   0m12.974s  0m5.087s   
+playbooks/restart.yaml  0m17.195s  0m12.201s
